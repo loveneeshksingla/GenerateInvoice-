@@ -1,0 +1,35 @@
+.AppBar{
+    background-color:#1976d2 !important;
+    background-size:"cover";
+    position: fixed ;
+    top: 0;
+    box-shadow: none !important;
+}
+
+.container{
+    /* width:1170px; */
+    margin:"auto";
+}
+
+.grow{
+    flex-grow:1;
+}
+
+.mainLogo{
+    color: "#a1a1a1";
+    justify-content:"left";   
+}
+
+.mainLogo:hover{
+    background:"transparent" ;
+}
+
+.buttonFontSize{
+    font-size:11px;
+    color:"#a1a1a1";
+}
+
+.avatar{
+    height:100%;
+    border-radius:0;
+}
